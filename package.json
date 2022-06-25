@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "http-server": "^14.1.1",
+    "mockserver-client": "^5.13.2",
     "mockserver-node": "^5.13.2"
   }
 }
